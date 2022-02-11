@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ignLua, I am a 14 year old from New York who works on Minecraft and CSGO cheats, I know /java/python/html,css,js)/lua/c#
+- 👋 Hi, I’m @ignLua, I from New York who works on Minecraft and CSGO cheats, I know /java/python/html,css,js)/lua/c#
 - 👀 I’m interested in ... MC clients, CSGO cheats.
 - 🌱 I’m currently learning ... C/ruby/golang
 - 💞️ I’m looking to collaborate on ... nothing much, just kinda chilling
